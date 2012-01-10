@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batchus GUI CS", "Batchus GUI CS\Batchus GUI CS.csproj", "{4EB101E9-0443-4CA6-98ED-E8432B75E819}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs36
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Batchus\u0020GUI\u0020CS\\Batchus\u0020GUI\u0020CS.csproj
+		SccProjectName1 = Batchus\u0020GUI\u0020CS
+		SccLocalPath1 = Batchus\u0020GUI\u0020CS
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EB101E9-0443-4CA6-98ED-E8432B75E819}.Debug|x86.ActiveCfg = Debug|x86
+		{4EB101E9-0443-4CA6-98ED-E8432B75E819}.Debug|x86.Build.0 = Debug|x86
+		{4EB101E9-0443-4CA6-98ED-E8432B75E819}.Release|x86.ActiveCfg = Release|x86
+		{4EB101E9-0443-4CA6-98ED-E8432B75E819}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
